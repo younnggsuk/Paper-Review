@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-# TL;DR
+# [Title of paper](paper_link)
+
+## TL;DR
 - Brief summary of paper contents
 
-# Review
+## Review
 - Personal reviews and opinions
