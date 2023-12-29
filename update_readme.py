@@ -32,7 +32,7 @@ def main():
     g = Github(auth=auth)
     
     # Get the repository object
-    repo = g.get_repo("younnggsuk/git_actions_test")
+    repo = g.get_repo("younnggsuk/Paper-Review")
     open_issues = repo.get_issues(state='open')
 
     # Get all issues
